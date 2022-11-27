@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+}
+
+header{    
+    
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+section {
+    
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 35pt;    
+}
+
+.flex-container {
+    margin: 0 auto;
+}
+
+.foto {     
+    font-family: fantasy;    
+    background-color: rgb(240, 240, 240);
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 20px;    
+}
+
+.img-header{
+    display: flex;    
+}
+
+.img-name{
+    padding-right: ;
+    margin: 5px;
+    width: 70%;
+    
+}
+
+.img-date{
+    margin: 5px;
+    color: rgb(167, 165, 165);
+    width: 30%;
+    text-align: right;
+}
+
+.picture{    
+    width: 600px;
+    height: 400px;     
+}
+
+img{
+    width: 600px;
+    height: 400px; 
+}
+
+.surf{
+    object-fit: cover;
+     
+}
+
+.img-description{
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
